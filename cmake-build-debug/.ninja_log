@@ -1,0 +1,18 @@
+# ninja log v5
+1	301	7153020152383715	CMakeFiles/Tarea_de_Soccer.dir/Jugador.cpp.obj	f72aa0bb1d04cb16
+3	327	7153013139104119	CMakeFiles/Tarea_de_Soccer.dir/Controladora.cpp.obj	e3afdff5c4160095
+11	597	7152971134378835	CMakeFiles/Tarea_de_Soccer.dir/Lista.cpp.obj	d2107867f0c98f1f
+2	338	7153019142783923	CMakeFiles/Tarea_de_Soccer.dir/Club.cpp.obj	acbd6587386397bb
+14	551	7152971133952119	CMakeFiles/Tarea_de_Soccer.dir/Nodo.cpp.obj	71936dbc9bb1194d
+2	280	7153020879227641	CMakeFiles/Tarea_de_Soccer.dir/Main.cpp.obj	b3f322303c27ff99
+280	352	7153020879918258	Tarea_de_Soccer.exe	f142caf6d825d2b9
+1	148	7153021518721171	build.ninja	913b2936b2e0841c
+2	312	7153021621573050	CMakeFiles/Tarea_de_Soccer.dir/Main.cpp.obj	b3f322303c27ff99
+312	390	7153021622323818	Tarea_de_Soccer.exe	f142caf6d825d2b9
+1	280	7160996599213144	CMakeFiles/Tarea_de_Soccer.dir/Main.cpp.obj	b3f322303c27ff99
+280	394	7160996600316900	Tarea_de_Soccer.exe	f142caf6d825d2b9
+2	296	7160997650690803	CMakeFiles/Tarea_de_Soccer.dir/Club.cpp.obj	acbd6587386397bb
+296	364	7160997651340959	Tarea_de_Soccer.exe	f142caf6d825d2b9
+2	297	7160999449802877	CMakeFiles/Tarea_de_Soccer.dir/Nodo.cpp.obj	71936dbc9bb1194d
+6	298	7160999449812877	CMakeFiles/Tarea_de_Soccer.dir/Main.cpp.obj	b3f322303c27ff99
+298	368	7160999450488085	Tarea_de_Soccer.exe	f142caf6d825d2b9
